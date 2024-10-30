@@ -1,0 +1,7 @@
+{
+  "name": "@icequb3/logger-repo",
+  "private": true,
+  "workspaces": [
+    "core"
+  ]
+}
