@@ -1,15 +1,16 @@
 # @icequb3/logger
 
-To install dependencies:
+Install:
 
 ```bash
-bun install
+bun add -s @icequb3/logger
+npm i -s @icequb3/logger
 ```
 
-To run:
+Build:
 
 ```bash
-bun run src/index.ts
+bun build
 ```
 
 This project was created using `bun init` in bun v1.1.33. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
